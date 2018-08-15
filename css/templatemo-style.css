@@ -529,7 +529,7 @@ a:hover, a:active, a:focus {
 #contact .contact-form,
 #contact .contact-thumb {
   padding: 22px 32px 22px 32px;
-  min-height: 75vh;
+  min-height: 30vh;
 }
 
 #contact .contact-img {
@@ -592,7 +592,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 footer {
-    padding: 140px 0px;
+    padding: 10px 0px;
 }
 
 
@@ -700,7 +700,7 @@ footer {
   }
 
   footer {
-    padding: 40px 0;
+    padding: 10px 0;
   }
 }
 
